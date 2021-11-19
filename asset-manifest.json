@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/avesha/static/css/main.f99200c5.chunk.css",
-    "main.js": "/avesha/static/js/main.4bea9dbd.chunk.js",
-    "main.js.map": "/avesha/static/js/main.4bea9dbd.chunk.js.map",
+    "main.css": "/avesha/static/css/main.54774c9f.chunk.css",
+    "main.js": "/avesha/static/js/main.87de09a4.chunk.js",
+    "main.js.map": "/avesha/static/js/main.87de09a4.chunk.js.map",
     "runtime-main.js": "/avesha/static/js/runtime-main.1e72a231.js",
     "runtime-main.js.map": "/avesha/static/js/runtime-main.1e72a231.js.map",
     "static/css/2.da1eef19.chunk.css": "/avesha/static/css/2.da1eef19.chunk.css",
-    "static/js/2.fea59c12.chunk.js": "/avesha/static/js/2.fea59c12.chunk.js",
-    "static/js/2.fea59c12.chunk.js.map": "/avesha/static/js/2.fea59c12.chunk.js.map",
+    "static/js/2.77591e7d.chunk.js": "/avesha/static/js/2.77591e7d.chunk.js",
+    "static/js/2.77591e7d.chunk.js.map": "/avesha/static/js/2.77591e7d.chunk.js.map",
     "static/js/3.901196ca.chunk.js": "/avesha/static/js/3.901196ca.chunk.js",
     "static/js/3.901196ca.chunk.js.map": "/avesha/static/js/3.901196ca.chunk.js.map",
     "index.html": "/avesha/index.html",
     "static/css/2.da1eef19.chunk.css.map": "/avesha/static/css/2.da1eef19.chunk.css.map",
-    "static/css/main.f99200c5.chunk.css.map": "/avesha/static/css/main.f99200c5.chunk.css.map",
-    "static/js/2.fea59c12.chunk.js.LICENSE.txt": "/avesha/static/js/2.fea59c12.chunk.js.LICENSE.txt",
-    "static/media/footer.css": "/avesha/static/media/TTHoves-ThinItalic.556f5311.ttf",
+    "static/css/main.54774c9f.chunk.css.map": "/avesha/static/css/main.54774c9f.chunk.css.map",
+    "static/js/2.77591e7d.chunk.js.LICENSE.txt": "/avesha/static/js/2.77591e7d.chunk.js.LICENSE.txt",
+    "static/media/AINetOPs.ec5de6d0.svg": "/avesha/static/media/AINetOPs.ec5de6d0.svg",
+    "static/media/footer.css": "/avesha/static/media/li_marker.ff019553.svg",
+    "static/media/ServerlessAI.ee0b7858.svg": "/avesha/static/media/ServerlessAI.ee0b7858.svg",
     "static/media/app-overlay_scheme.730ab5e5.svg": "/avesha/static/media/app-overlay_scheme.730ab5e5.svg",
+    "static/media/cloud-builders.dadb7087.svg": "/avesha/static/media/cloud-builders.dadb7087.svg",
     "static/media/topnav.css": "/avesha/static/media/preview.5cb2e10f.svg",
     "static/media/home.css": "/avesha/static/media/crown-4.db285276.svg",
     "static/media/footer_logo.bb440497.svg": "/avesha/static/media/footer_logo.bb440497.svg",
@@ -31,6 +34,8 @@
     "static/media/snap-6.802391ff.svg": "/avesha/static/media/snap-6.802391ff.svg",
     "static/media/snap-7.79cc917c.svg": "/avesha/static/media/snap-7.79cc917c.svg",
     "static/media/snap-8.ce9c0d1b.svg": "/avesha/static/media/snap-8.ce9c0d1b.svg",
+    "static/media/solutions-1.b8abb3cc.svg": "/avesha/static/media/solutions-1.b8abb3cc.svg",
+    "static/media/solutions-2.a71b8c53.svg": "/avesha/static/media/solutions-2.a71b8c53.svg",
     "static/media/topnav_logo.c190b9d1.svg": "/avesha/static/media/topnav_logo.c190b9d1.svg",
     "static/media/trend_today.29ee2709.svg": "/avesha/static/media/trend_today.29ee2709.svg",
     "static/media/trend_tomorrow.606a63be.svg": "/avesha/static/media/trend_tomorrow.606a63be.svg"
@@ -38,8 +43,8 @@
   "entrypoints": [
     "static/js/runtime-main.1e72a231.js",
     "static/css/2.da1eef19.chunk.css",
-    "static/js/2.fea59c12.chunk.js",
-    "static/css/main.f99200c5.chunk.css",
-    "static/js/main.4bea9dbd.chunk.js"
+    "static/js/2.77591e7d.chunk.js",
+    "static/css/main.54774c9f.chunk.css",
+    "static/js/main.87de09a4.chunk.js"
   ]
 }
